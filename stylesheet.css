@@ -18,7 +18,10 @@ a:hover {
 a:active {
 	color: #f9f9f9;
 }
-.links {
+#project-links {
+	font-size: 16px;
+}
+#other-links {
 	font-size: 16px;
 }
 ul { 

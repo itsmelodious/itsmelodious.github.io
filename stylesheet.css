@@ -22,8 +22,8 @@ a:active {
 ul { 
 	display: block;
 	list-style-type: none;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
+	margin-top: 0.25em;
+	margin-bottom: 1em;
 	margin-left: 0;
 	margin-right: 0;
 	padding-left: 0px;

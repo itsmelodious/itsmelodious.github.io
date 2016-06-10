@@ -1,3 +1,6 @@
+h2 {
+	font-size: 25px;
+}
 a {
 	color: #4C5B5C;
 	text-decoration: none;
@@ -14,7 +17,7 @@ a:active {
 	color: #f9f9f9;
 }
 #project-links {
-	font-size: 25px;
+	font-size: 20px;
 }
 ul { 
 	display: block;

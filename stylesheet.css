@@ -1,22 +1,20 @@
-#start a {
+a {
 	color: #4C5B5C;
+	text-decoration: none;
 }
-#start a:visited {
+a:visited {
 	color: #5d6b6c;
 }
-#start a:hover {
+a:hover {
 	color: #c9cdce;
 	letter-spacing: 3px;
 	transition: 0.5s;
 }
-#start a:active {
+a:active {
 	color: #f9f9f9;
 }
-#start {
-	font-size: 12px;
-}
-a {
-	text-decoration: none;	
+#project-links {
+	font-size: 15px;
 }
 ul { 
     display: block;

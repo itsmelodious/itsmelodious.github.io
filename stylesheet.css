@@ -1,3 +1,6 @@
+body {
+	background-image: url("pattern.png");
+}
 h2 {
 	font-size: 20px;
 	margin-top: 20px;
